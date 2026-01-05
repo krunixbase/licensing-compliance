@@ -82,4 +82,10 @@ This repository is maintained as a reference framework and may evolve over time.
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This repository is provided under the GNU General Public License v3.0 (GPLv3).
+
+Certain reference materials may originate from sources licensed under Creative Commons licenses.
+Where applicable, attribution is preserved and compatibility is maintained in accordance with
+Creative Commons ShareAlike compatibility declarations.
+
+This repository is intended as a reference framework and does not constitute legal advice.
