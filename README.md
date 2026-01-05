@@ -39,6 +39,39 @@ project scope, and regulatory context.
 
 ---
 
+## Repository Structure
+
+licensing/compliance
+├── audit/
+│   ├── methodology.md
+│   ├── scope.md
+│   └── evidence-handling.md
+│
+├── compliance/
+│   ├── regulatory-scope.md
+│   ├── compliance-considerations.md
+│   └── jurisdiction-notes.md
+│
+├── licensing/
+│   ├── license-context.md
+│   ├── attribution-guidelines.md
+│   └── third-party-notes.md
+│
+├── templates/
+│   ├── audit-checklist.md
+│   ├── compliance-template.md
+│   └── documentation-template.md
+│
+├── references/
+│   ├── glossary.md
+│   ├── external-sources.md
+│   └── legal-notes.md
+│
+├── README.md
+└── LICENSE
+
+---
+
 ## Status
 
 This repository is maintained as a reference framework and may evolve over time.
