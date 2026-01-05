@@ -41,6 +41,8 @@ project scope, and regulatory context.
 
 ## Repository Structure
 
+---
+
 licensing/compliance
 ├── audit/
 │   ├── methodology.md
