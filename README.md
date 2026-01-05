@@ -41,7 +41,7 @@ project scope, and regulatory context.
 
 ## Repository Structure
 
----
+```
 
 licensing/compliance
 ├── audit/
@@ -72,7 +72,7 @@ licensing/compliance
 ├── README.md
 └── LICENSE
 
----
+```
 
 ## Status
 
