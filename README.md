@@ -8,15 +8,22 @@ legal advice, certification, or a formal compliance assessment.
 
 ---
 
+## Purpose
+
+This repository provides reference documentation and tooling guidelines
+for open‑source license compliance and governance.
+
+It is intended for educational, audit, and documentation purposes.
+
+---
+
 ## Scope
 
-This repository includes reference materials covering:
-
-- Software licensing context and attribution references
-- Regulatory compliance scope and considerations
-- Audit scope, methodology, and evidence handling references
-- Compliance checklists and reusable documentation templates
-- Terminology definitions and external reference sources
+This repository focuses on:
+- license identification and classification
+- compliance documentation patterns
+- audit‑ready reference structures
+- governance and attribution practices
 
 ---
 
@@ -28,6 +35,23 @@ This repository does not:
 - Perform or represent completed audits
 - Provide legal, regulatory, or professional advice
 - Guarantee applicability to any specific jurisdiction or project
+
+---
+
+## Non‑Goals
+
+This repository:
+- is not legal advice
+- does not replace professional legal review
+- does not provide automated license enforcement
+
+---
+
+## Ecosystem Context
+
+This repository is part of the Krunixbase ecosystem,
+which focuses on cryptographic validation, security engineering,
+and audit‑ready technical documentation.
 
 ---
 
